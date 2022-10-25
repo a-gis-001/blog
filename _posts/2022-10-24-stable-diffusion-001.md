@@ -16,6 +16,7 @@ date: 2022-10-24
 - Dimensions: 512 x 768
 - Seed: 6995560496996294
 - Steps: 123
+- Sampler: LMS
 
 #### Thoughts
 

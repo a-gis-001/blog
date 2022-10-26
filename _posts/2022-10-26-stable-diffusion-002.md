@@ -54,7 +54,7 @@ This one is interesting in that with lowef CFG Scale you just get stock photos o
 
 ## Test 3
 
-Now I'm tired of how long "Euler a" takes. I love DDIM. It's so fast. For 20 sampling steps, you get good stuff all day. So I'm going 
+Now I'm tired of how long "Euler a" takes. I love DDIM. It's so fast. For 20 sampling steps, you get good stuff all day.  
 
 ### Parameters
 
@@ -67,7 +67,9 @@ Now I'm tired of how long "Euler a" takes. I love DDIM. It's so fast. For 20 sam
 
 ### DDIM
 
+![Uploading xy_grid-0004-3233575213-Starry night by Vincent van Gogh, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels shar.jpg…]()
 
+I think the 20-30 corner with low steps is interesting. Let's look at that in detail in Test 5.
 
 ## Test 4
 
@@ -78,13 +80,28 @@ Now instead of "Starry night by Vincent van Gogh", I'm trying a simple "Woman" a
 - CFG Scale: 5,10,15,20,25,30
 - Steps: 8,16,24,32,40
 - Seed: 3233575213
-- Prompt: Woman
+- Prompt: Woman, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels sharp focus
 - Negative Prompt: 
 - Size: 512x512
 
 ### DDIM
 
+![xy_grid-0003-3233575213-Woman, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels sharp focus](https://user-images.githubusercontent.com/116606542/198156475-2f99914c-9118-4a82-af9d-f78132f11980.jpg)
 
+## Test 5
+
+There's some cool stuff in the 20-30 range and low step count. Let's investigate!
+
+### Parameters
+
+- CFG Scale: 5,10,15,20,25,30
+- Steps: 8,16,24,32,40
+- Seed: 3233575213
+- Prompt: Starry night by Vincent van Gogh, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels sharp focus
+- Negative Prompt: 
+- Size: 512x512
+
+### DDIM
 
 ## Bonus Buys
 

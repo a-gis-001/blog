@@ -67,7 +67,41 @@ Now I'm tired of how long "Euler a" takes. I love DDIM. It's so fast. For 20 sam
 
 ### DDIM
 
-## END
+
+
+## Test 4
+
+Now instead of "Starry night by Vincent van Gogh", I'm trying a simple "Woman" as the prompt.
+
+### Parameters
+
+- CFG Scale: 5,10,15,20,25,30
+- Steps: 8,16,24,32,40
+- Seed: 3233575213
+- Prompt: Woman
+- Negative Prompt: 
+- Size: 512x512
+
+### DDIM
+
+
+
+## Bonus Buys
+
+### Puff weed is your name
+
+This was one random variant that popped up that looked cool.
 
 ![00001-3298187535-Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels sharp focus, by Damien Hirst](https://user-images.githubusercontent.com/116606542/198152693-a152f8eb-86a0-426c-8423-52d4019325b0.png)
 
+### Euler a + low steps + random seed
+
+I accidentally ran Euler a with low step counts with a random seed for both "Starry night by Vincent van Gogh" and  "Woman" as the prompt.
+
+#### Prompt: Starry night by Vincent van Gogh
+
+![xy_grid-0001-3694350114-Starry night by Vincent van Gogh, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels shar](https://user-images.githubusercontent.com/116606542/198155203-47af9001-7bd8-4eed-adb2-9b9663b10e88.jpg)
+
+#### Prompt: Woman
+
+![xy_grid-0002-3520326817-Woman, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels sharp focus](https://user-images.githubusercontent.com/116606542/198155762-d9fd66a2-a774-4ab7-a1ae-45c6b70b465b.jpg)

@@ -67,7 +67,7 @@ Now I'm tired of how long "Euler a" takes. I love DDIM. It's so fast. For 20 sam
 
 ### DDIM
 
-![xy_grid-0005-3233575213-Starry night by Vincent van Gogh, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels shar](https://user-images.githubusercontent.com/116606542/198164279-62edc6dd-6b04-4625-b930-1c1045ba53e1.jpg)
+![xy_grid-0004-3233575213-Starry night by Vincent van Gogh, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels shar](https://user-images.githubusercontent.com/116606542/198164474-d05ec4a6-703a-4359-a9d1-095a806318a4.jpg)
 
 I think the 20-30 corner with low steps is interesting. Let's look at that in detail in Test 5.
 
@@ -86,7 +86,7 @@ Now instead of "Starry night by Vincent van Gogh", I'm trying a simple "Woman" a
 
 ### DDIM
 
-![xy_grid-0003-3233575213-Woman, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels sharp focus](https://user-images.githubusercontent.com/116606542/198156475-2f99914c-9118-4a82-af9d-f78132f11980.jpg)
+![xy_grid-0003-3233575213-Woman, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels sharp focus](https://user-images.githubusercontent.com/116606542/198164555-cb107a77-040f-4e01-9a98-959c85b223e2.jpg)
 
 ## Test 5
 
@@ -103,8 +103,7 @@ There's some cool stuff in the 20-30 range and low step count. Let's investigate
 
 ### DDIM
 
-![Uploading xy_grid-0005-3233575213-Starry night by Vincent van Gogh, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels shar.jpg…]()
-
+![xy_grid-0005-3233575213-Starry night by Vincent van Gogh, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels shar](https://user-images.githubusercontent.com/116606542/198164611-741d2719-fa92-4194-a399-435f583dd91d.jpg)
 
 ## Bonus Buys
 

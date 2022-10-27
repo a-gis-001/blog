@@ -103,6 +103,9 @@ There's some cool stuff in the 20-30 range and low step count. Let's investigate
 
 ### DDIM
 
+![Uploading xy_grid-0005-3233575213-Starry night by Vincent van Gogh, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels shar.jpg…]()
+
+
 ## Bonus Buys
 
 ### Puff weed is your name

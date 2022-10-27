@@ -67,7 +67,7 @@ Now I'm tired of how long "Euler a" takes. I love DDIM. It's so fast. For 20 sam
 
 ### DDIM
 
-![Uploading xy_grid-0004-3233575213-Starry night by Vincent van Gogh, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels shar.jpg…]()
+![xy_grid-0005-3233575213-Starry night by Vincent van Gogh, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels shar](https://user-images.githubusercontent.com/116606542/198164279-62edc6dd-6b04-4625-b930-1c1045ba53e1.jpg)
 
 I think the 20-30 corner with low steps is interesting. Let's look at that in detail in Test 5.
 

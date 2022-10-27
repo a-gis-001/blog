@@ -124,3 +124,7 @@ I accidentally ran Euler a with low step counts with a random seed for both "Sta
 #### Prompt: Woman
 
 ![xy_grid-0002-3520326817-Woman, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels sharp focus](https://user-images.githubusercontent.com/116606542/198155762-d9fd66a2-a774-4ab7-a1ae-45c6b70b465b.jpg)
+
+#### Prompt: World's Strongest Man
+
+![xy_grid-0006-3233575213-World's Strongest Man, Professional photography, bokeh, natural lighting, canon lens, shot on dslr 64 megapixels sharp focus](https://user-images.githubusercontent.com/116606542/198174675-0e019c1b-9a36-44e9-a62e-7c6e7cb33dfd.jpg)
